@@ -16,9 +16,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tunahan-labs&show_icons=true&theme=dark&locale=en&layout=compact" alt="tunahan-labs" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tunahan-labs&show_icons=true&theme=dark&locale=en" alt="tunahan-labs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tunahan-labs&show_icons=true&theme=dark&locale=en" alt="tunahan-labs" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tunahan-labs&theme=dark" alt="tunahan-labs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tunahan-labs&theme=dark" alt="tunahan-labs" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
