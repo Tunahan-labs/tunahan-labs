@@ -10,8 +10,6 @@
 <img src="./assets/images/zorofire.gif" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tunahan-labs" alt="tunahan-labs" /></a> </p>
-
 <h3 align="right"></h3>
 <p align="left">
 </p>
