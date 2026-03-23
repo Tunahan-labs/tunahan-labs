@@ -7,7 +7,7 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎: 𝚒 𝚑𝚊𝚟𝚎 𝚗𝚘 𝚒𝚍𝚎𝚊 𝚠𝚑𝚊𝚝 𝚊𝚖 𝚍𝚘𝚒𝚗𝚐 😊.
 
 <p align="center">
-<img src="./assets/images/zorofire.gif" />
+<img src="./assets/images/gojo.gif" />
 </p>
 
 <h3 align="right"></h3>
