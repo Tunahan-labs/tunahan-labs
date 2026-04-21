@@ -1,10 +1,38 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚃𝚞𝚗𝚊𝚑𝚊𝚗 𝙺𝚞𝚛𝚜𝚞𝚗</h1>
-<h3 align="center">𝙹𝚞𝚗𝚒𝚘𝚛 𝙸𝚃-𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚒𝚊𝚗  -  𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚂𝚝𝚞𝚍𝚎𝚗𝚝</h3>
+<h3 align="center">𝙹𝚞𝚗𝚒𝚘𝚛 𝙸𝚃-𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚒𝚊𝚗  -  𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
-- 🌱 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React+TS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) [![Zod](https://img.shields.io/badge/Schema-Zod-3068B7?logo=zod&logoColor=white)](https://github.com/colinhacks/zod)
+## ⚡ Tech Stack
 
-- 📄 𝙼𝚢 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎: 𝙸 𝚑𝚊𝚟𝚎 𝚣𝚎𝚛𝚘 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎.
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎: 𝚒 𝚑𝚊𝚟𝚎 𝚗𝚘 𝚒𝚍𝚎𝚊 𝚠𝚑𝚊𝚝 𝚊𝚖 𝚍𝚘𝚒𝚗𝚐 😊.
+### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+</p>
+
+### 🧠 Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Mongoose-111111?style=for-the-badge&logo=mongoose&logoColor=880000"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</p>
+
+### 🌐 Networking
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-111111?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+  <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=fortinet&logoColor=EE3124"/>
+  <img src="https://img.shields.io/badge/Network%20Administration-111111?style=for-the-badge&logo=ibm&logoColor=0F62FE"/>
+</p>
 
 <p align="center">
 <img src="./assets/images/gojo.gif" />
