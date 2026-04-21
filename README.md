@@ -1,6 +1,14 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚃𝚞𝚗𝚊𝚑𝚊𝚗 𝙺𝚞𝚛𝚜𝚞𝚗</h1>
 <h3 align="center">𝙹𝚞𝚗𝚒𝚘𝚛 𝙸𝚃-𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚒𝚊𝚗  -  𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
+<p align="center">
+<img src="./assets/images/gojo.gif" />
+</p>
+
+<h3 align="right"></h3>
+<p align="left">
+</p>
+
 ## ⚡ Tech Stack
 
 ### 🎨 Frontend
